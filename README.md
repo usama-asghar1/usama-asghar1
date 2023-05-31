@@ -7,9 +7,9 @@ I'm a Full Stack Developer from London
 After completing a degree in BSc Chemistry, I found my true passion of coding through computer science modules and then decided to purse this passion with the School of Code.
 
 * 💻 Currently studying on Bootcamp 14 with The School of Code
-* 🧠  I'm currently learning React, TypeScript, Node.js, SQL and REST APIs
+* 🧠 I'm currently learning React, TypeScript, Node.js, SQL and REST APIs
 * 👨‍💻 Ongoing side projects can be found pinned below
-* ✉️  You can contact me at [usama.asghar@hotmail.co.uk](mailto:usama.asghar@hotmail.co.uk)
+* ✉️ You can contact me at [usama.asghar@hotmail.co.uk](mailto:usama.asghar@hotmail.co.uk)
 
 ### Skills
 
