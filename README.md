@@ -8,7 +8,7 @@ After completing a degree in BSc Chemistry, I found my true passion of coding th
 
 * 💻 Currently studying on Bootcamp 14 with The School of Code
 * 🧠 I'm currently learning React, TypeScript, Node.js, SQL and REST APIs
-* 👨‍💻 Ongoing side projects can be found pinned below
+* 👨‍💻 Projects can be found pinned below
 * ✉️ You can contact me at [usama.asghar@hotmail.co.uk](mailto:usama.asghar@hotmail.co.uk)
 
 ### Skills
