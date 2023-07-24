@@ -1,6 +1,3 @@
-Hi, My name is Usama Asghar
-=============================
-
 I'm a Full Stack Developer from London
 --------------------------
 
