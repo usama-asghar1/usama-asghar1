@@ -1,11 +1,9 @@
 Check out my portfolio! - https://usama-asghar.netlify.app/
 
-I'm a Full Stack Developer from London
+I'm a Full-Stack Software Engineer from London
 
 After completing a degree in BSc Chemistry, I found my true passion of coding through programming modules and then decided to pursue this passion with the School of Code. Looking forward to land my first job in the tech industry.
 
-* 💻 Currently studying on Bootcamp 14 with The School of Code
-* 🧠 I'm currently learning React, TypeScript, Node.js, SQL and REST APIs
 * 👨‍💻 Projects can be found pinned below
 * ✉️ You can contact me at [usama.asghar@hotmail.co.uk](mailto:usama.asghar@hotmail.co.uk)
 
