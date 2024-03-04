@@ -1,6 +1,6 @@
 
 * Check out my portfolio! - https://usama-asghar.netlify.app/
-* 👨‍💻 Projects can be found pinned below
+
 ### Skills
 
 
