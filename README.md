@@ -1,6 +1,3 @@
-
-* Check out my portfolio! - https://usama-asghar.netlify.app/
-
 ### Skills
 
 
